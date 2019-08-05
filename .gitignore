@@ -1,0 +1,5 @@
+# Default output folder for the python script
+/out
+
+# Standard python stuff
+__pycache__/
