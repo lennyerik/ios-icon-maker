@@ -1,0 +1,91 @@
+# All sizes are in pixels
+
+Targets:
+    iPhone:
+        Notification_2x: 40
+        Notification_3x: 60
+
+        Settings_2x: 58
+        Settings_3x: 87
+
+        Spotlight_2x: 80
+        Spotlight_3x: 120
+
+        App_2x: 120
+        App_3x: 180
+
+    iPad:
+        Notification_1x: 20
+        Notification_2x: 40
+
+        Settings_1x: 29
+        Settings_2x: 58
+
+        Spotlight_1x: 40
+        Spotlight_2x: 80
+
+        App_1x: 76
+        App_2x: 152
+
+        Pro_App_2x: 167
+
+    App_Store:
+        1x: 1024
+
+    Apple_Watch:
+        Notification_Centre_38mm_2x: 48
+        Notification_Centre_40_42_mm_2x: 55
+        
+        Companion_Settings_Notification_Centre_2x: 58
+        Companion_Settings_Notification_Centre_3x: 87
+        
+        Home_Screen_38_42_mm_2x: 80
+        Home_Screen_40_mm_2x: 88
+        Home_Screen_44_mm_2x: 100
+
+        Short_Look_38_mm_2x: 172
+        Short_Look_40_42_mm_2x: 196
+        Short_Look_44_mm_2x: 216
+
+    Apple_Watch_Complications:
+        Circular_38_mm_2x: 32
+        Circular_40_mm_2x: 36
+        Circular_42_mm_2x: 36
+        Circular_44_mm_2x: 40
+
+        Extra_Large_38_mm_2x: 182
+        Extra_Large_40_mm_2x: 203
+        Extra_Large_42_mm_2x: 203
+        Extra_Large_44_mm_2x: 224
+
+        Graphic_Bezel_38_mm_2x: 84
+        Graphic_Bezel_40_mm_2x: 84
+        Graphic_Bezel_42_mm_2x: 84
+        Graphic_Bezel_44_mm_2x: 94
+
+        Graphic_Circular_38_mm_2x: 84
+        Graphic_Circular_40_mm_2x: 84
+        Graphic_Circular_42_mm_2x: 84
+        Graphic_Circular_44_mm_2x: 94
+
+        Graphic_Corner_38_mm_2x: 40
+        Graphic_Corner_40_mm_2x: 40
+        Graphic_Corner_42_mm_2x: 40
+        Graphic_Corner_44_mm_2x: 44
+
+        Modular_38_mm_2x: 52
+        Modular_40_mm_2x: 58
+        Modular_42_mm_2x: 58
+        Modular_44_mm_2x: 64
+
+        Utilitarian_38_mm_2x: 40
+        Utilitarian_40_mm_2x: 44
+        Utilitarian_42_mm_2x: 44
+        Utilitarian_44_mm_2x: 50
+
+
+# Previews with corner-radii
+
+Previews:
+    iPhone: 130
+    Apple_Watch: 512
